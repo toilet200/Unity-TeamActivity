@@ -6,6 +6,11 @@ A lightweight Unity Editor extension that shows what each team member is working
 
 Team Activity uses advisory soft locks. It never makes project files read-only and never prevents another member from editing an asset.
 
+## Attention
+
+- Scripts for this tool is created by Codex.
+- This tool is for Unity only.
+
 <!--
 Add a screenshot or animated GIF here.
 Suggested location: Documentation~/Images/team-activity-window.png
