@@ -1,0 +1,18 @@
+{
+  "name": "com.devtools.team-activity",
+  "version": "2.2.0",
+  "displayName": "Team Activity",
+  "description": "A lightweight Unity Editor presence and soft-lock tool for teams.",
+  "unity": "6000.0",
+  "keywords": [
+    "editor",
+    "collaboration",
+    "presence",
+    "soft-lock"
+  ],
+  "author": {
+    "name": "toilet200",
+    "url": "https://github.com/toilet200",
+    "email": "fatty.boy0627@gmail.com"
+  }
+}
